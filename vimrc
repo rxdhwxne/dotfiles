@@ -48,6 +48,8 @@ set encoding=utf-8 fileencoding=utf-8
 
 set incsearch hlsearch
 
+set nocursorline
+
 nnoremap <Leader>n :noh<CR>
 
 nnoremap <Leader>f :Files<CR>
