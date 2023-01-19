@@ -8,6 +8,7 @@ Plug 'junegunn/fzf.vim'
 
 Plug 'morhetz/gruvbox'
 Plug 'NLKNguyen/papercolor-theme'
+Plug 'vim-scripts/kiss.vim'
 
 call plug#end()
 
